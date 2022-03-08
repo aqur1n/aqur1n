@@ -1,3 +1,10 @@
-![Aqur1n's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqur1n&show_icons=true&theme=tokyonight)
--
+# Hi!
+I am aqur1n, I am developing in python and c#.
+I'm learning to program in c++.
+
+# Here's a little bit about my statistics:
+![](https://github-readme-stats.vercel.app/api?username=aqur1n&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqur1n&layout=compact&theme=tokyonight)
+
+# You can contact me:
+[![](https://discord.c99.nl/widget/theme-4/655426922561404958.png)](https://discord.gg/HbtSHsWv4b)
