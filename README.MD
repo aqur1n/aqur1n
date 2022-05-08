@@ -7,4 +7,4 @@ I'm learning to program in c#.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqur1n&layout=compact&theme=tokyonight)
 
 # You can contact me:
-[![](https://discord.c99.nl/widget/theme-4/655426922561404958.png)](https://discord.gg/HbtSHsWv4b)
+[![](https://discord.c99.nl/widget/theme-2/655426922561404958.png)](https://discord.gg/HbtSHsWv4b)
