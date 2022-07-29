@@ -8,4 +8,4 @@ I mainly develop bots in 🐍 python and desktop applications in 💠 c#.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aqur1n&layout=compact&theme=tokyonight)
 
 # My creations
-[![](https://top.gg/api/widget/969234839188422676.svg)(https://top.gg/bot/969234839188422676)
+![](https://top.gg/api/widget/969234839188422676.svg)
