@@ -15,4 +15,4 @@ I mainly develop bots in 🐍 python and desktop applications in 💠 c#.
 </table>
 
 # My creations
-[![Discord Bots](https://top.gg/api/widget/969234839188422676.svg)](https://top.gg/bot/969234839188422676)
+[![Discord Bots](https://top.gg/api/widget/969234839188422676.svg)(https://top.gg/bot/969234839188422676)
