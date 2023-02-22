@@ -15,5 +15,5 @@ A young developer living on the Internet, I like to eat python, C# and lua.
     </tr>
 </table>
 
-# My creations
+# My creations:
 [![Rimuru Discord Bot](https://top.gg/api/widget/969234839188422676.svg)](https://discord.com/api/oauth2/authorize?client_id=969234839188422676&permissions=1394722991574&scope=bot%20applications.commands)
