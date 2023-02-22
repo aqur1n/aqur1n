@@ -1,6 +1,7 @@
 # Hi! ✋
-I am **aqur1n**.                           
-I mainly develop bots in 🐍 python and desktop applications in 💠 c#.
+I am *aqur1n*. 
+
+A young developer living on the Internet, I like to eat python, C# and lua.
 
 # Here's a little bit about my statistics on github:
 <table>
@@ -15,4 +16,4 @@ I mainly develop bots in 🐍 python and desktop applications in 💠 c#.
 </table>
 
 # My creations
-![Discord Bots](https://top.gg/api/widget/969234839188422676.svg)
+[![Discord Bots](https://top.gg/api/widget/969234839188422676.svg)](https://top.gg/bot/969234839188422676)
