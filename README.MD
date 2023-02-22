@@ -3,7 +3,7 @@ I am *aqur1n*.
 
 A young developer living on the Internet, I like to eat python, C# and lua.
 
-# Here's a little bit about my statistics on github:
+# Here are my stats on github:
 <table>
     <tr>
       <td align="center" style="padding=0;width=100%;">
