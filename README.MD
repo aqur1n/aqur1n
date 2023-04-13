@@ -1,9 +1,13 @@
 # Hi! ✋
 I am *aqur1n*. 
 
-A young developer living on the Internet, I like to eat python, C# and lua.
+A young developer living on the Internet
 
-# My stats on github:
+## Tools that I use
+### Programming languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## My stats on github:
 <table>
     <tr>
       <td align="center" style="padding=0;width=100%;">
@@ -15,5 +19,5 @@ A young developer living on the Internet, I like to eat python, C# and lua.
     </tr>
 </table>
 
-# My creations:
+## My creations:
 [![Rimuru Discord Bot](https://top.gg/api/widget/969234839188422676.svg)](https://discord.com/api/oauth2/authorize?client_id=969234839188422676&permissions=1394722991574&scope=bot%20applications.commands)
