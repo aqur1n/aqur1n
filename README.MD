@@ -7,7 +7,7 @@ A young developer living on the Internet
 ### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=flat)
 ![Lua](https://img.shields.io/badge/lua-3670A0?logo=lua&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/c#-3670A0?logo=csharp&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/csharp-3670A0?logo=csharp&logoColor=white&style=flat)
 
 ## My stats on github:
 <table>
