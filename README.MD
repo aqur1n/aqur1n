@@ -5,9 +5,9 @@ A young developer living on the Internet
 
 ## Tools that I use
 ### Programming languages
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=flat)
-![Lua](https://img.shields.io/badge/lua-3670A0?logo=lua&logoColor=white&style=flat)
-![C#](https://img.shields.io/badge/csharp-3670A0?logo=csharp&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=white&style=flat-square)
+![Lua](https://img.shields.io/badge/lua-3670A0?logo=lua&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/csharp-3670A0?logo=csharp&logoColor=white&style=flat-square)
 
 ## My stats on github:
 <table>
