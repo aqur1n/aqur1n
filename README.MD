@@ -25,3 +25,4 @@ A young developer living on the Internet
 
 ## My Projects
 [![Rimuru Discord Bot](https://top.gg/api/widget/969234839188422676.svg)](https://top.gg/bot/969234839188422676)
+[![NodeS Discord](https://images-ext-2.discordapp.net/external/J4mysrHBRi__DTacGmISWUZ_oWSgPZ2LYIz0osrd0Kk/https/cdn.discordapp.com/emojis/1131841226153394306.png)](https://discord.gg/StFzkkFyJf)
