@@ -25,3 +25,4 @@ A young developer living on the Internet
 
 ## My Projects
 [![Rimuru Discord Bot](https://top.gg/api/widget/969234839188422676.svg)](https://top.gg/bot/969234839188422676)
+<iframe src="https://discord.com/widget?id=1131835999857688716&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
