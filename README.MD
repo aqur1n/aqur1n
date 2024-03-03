@@ -5,11 +5,14 @@ A young developer living on the Internet
 
 ## Tools that I use
 #### Programming languages
-![Python](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)
-![Lua](https://img.shields.io/badge/lua-0E1117?logo=lua&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/c%23-0E1117?logo=csharp&logoColor=white&style=for-the-badge)
+[![Python](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+[![Lua](https://img.shields.io/badge/lua-0E1117?logo=lua&logoColor=white&style=for-the-badge)](https://www.lua.org/)
+[![C#](https://img.shields.io/badge/c%23-0E1117?logo=csharp&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
 #### Game engines
-![Unity](https://img.shields.io/badge/unity-0E1117?logo=unity&logoColor=white&style=for-the-badge)
+[![Unity](https://img.shields.io/badge/unity-0E1117?logo=unity&logoColor=white&style=for-the-badge)](https://unity.com/)
+#### Libraries
+[![Flask](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Pycord](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 
 ## My stats on github
 <table>
