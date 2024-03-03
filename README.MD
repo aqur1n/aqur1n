@@ -11,8 +11,8 @@ A young developer living on the Internet
 #### Game engines
 [![Unity](https://img.shields.io/badge/unity-0E1117?logo=unity&logoColor=white&style=for-the-badge)](https://unity.com/)
 #### Libraries
-[![Flask](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
-[![Pycord](https://img.shields.io/badge/python-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
+[![Flask](https://img.shields.io/badge/flask-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
+[![Pycord](https://img.shields.io/badge/pycord-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 
 ## My stats on github
 <table>
