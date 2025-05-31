@@ -26,6 +26,6 @@ A young developer living on the Internet
     </tr>
 </table>
 
-## My Projects
+## My Projects 
 [![Rimuru Discord Bot](https://aqur1n.ru/api/v1/rimuru/widget)](https://top.gg/bot/969234839188422676)
 [![NodeS Discord](https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true)](https://discord.gg/StFzkkFyJf)
