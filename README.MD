@@ -31,7 +31,7 @@ A young developer living on the Internet
     <tr>
         <td align="center" style="padding=0;width=100%;">
             <a href="https://top.gg/bot/969234839188422676">
-                <img align="center" style="padding=0;" src="https://aqur1n.ru/api/v1/rimuru/widget1.svg" />
+                <img align="center" style="padding=0;" src="https://aqur1n.ru/api/v1/rimuru/widget.svg" />
             </a>
         </td>
         <td align="center" style="padding=0;width=100%;">
