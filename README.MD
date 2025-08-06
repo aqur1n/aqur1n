@@ -35,7 +35,7 @@ A young developer living on the Internet
             </a>
         </td>
         <td align="center" style="padding=0;width=100%;">
-            <a href="https://discord.gg/StFzkkFyJf">
+            <a href="https://aqur1n.itch.io/nodes">
                 <img align="center" style="padding=0;" src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" />
             </a>
         </td>
