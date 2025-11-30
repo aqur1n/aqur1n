@@ -27,6 +27,7 @@ A young developer living on the Internet
 </table>
 
 ## My Projects 
+<iframe frameborder="0" src="https://itch.io/embed/3757844?linkback=true&amp;bg_color=292b2f&amp;fg_color=ffffff&amp;link_color=5ab279&amp;border_color=454649" width="552" height="167"><a href="https://aqur1n.itch.io/nodes">NodeS by aqur1n</a></iframe>
 <table>
     <tr>
         <td align="center" style="padding=0;width=100%;">
@@ -37,7 +38,6 @@ A young developer living on the Internet
         <td align="center" style="padding=0;width=100%;">
             <a href="https://aqur1n.itch.io/nodes">
                 <img align="center" style="padding=0;" src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" />
-                <iframe frameborder="0" src="https://itch.io/embed/3757844?linkback=true&amp;bg_color=292b2f&amp;fg_color=ffffff&amp;link_color=5ab279&amp;border_color=454649" width="552" height="167"><a href="https://aqur1n.itch.io/nodes">NodeS by aqur1n</a></iframe>
             </a>
         </td>
     </tr>
