@@ -14,8 +14,13 @@ A young developer living on the Internet
 [![Flask](https://img.shields.io/badge/flask-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Pycord](https://img.shields.io/badge/pycord-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 
+<style>
+  .clean-table, .clean-table th, .clean-table td {
+    border: none !important;
+  }
+</style>
 ## My stats in github
-<table>
+<table class="clean-table">
     <tr>
       <td align="center" style="padding=0;width=100%;">
         <img align="center" style="padding=0;" src="https://readme-stats-github.pages.dev/api?username=aqur1n&theme=dark" />
@@ -27,7 +32,7 @@ A young developer living on the Internet
 </table>
 
 ## My Projects 
-<table>
+<table class="clean-table">
     <tr>
         <td align="center" style="padding=0;width=100%;">
             <a href="https://top.gg/bot/969234839188422676">
