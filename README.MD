@@ -24,9 +24,9 @@ A young developer living on the Internet
 ## My Projects 
 <p align="center">
   <a href="https://top.gg/bot/969234839188422676">
-    <img src="https://aqur1n.ru/api/v1/rimuru/widget.svg?upd=1" width="48%" />
+    <img src="https://aqur1n.ru/api/v1/rimuru/widget.svg?upd=1" width="30%" />
   </a>
   <a href="https://aqur1n.itch.io/nodes">
-    <img src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" width="48%" />
+    <img src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" width="30%" />
   </a>
 </p>
