@@ -14,35 +14,19 @@ A young developer living on the Internet
 [![Flask](https://img.shields.io/badge/flask-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://flask.palletsprojects.com/en/3.0.x/)
 [![Pycord](https://img.shields.io/badge/pycord-0E1117?logo=python&logoColor=white&style=for-the-badge)](https://docs.pycord.dev/en/stable/)
 
-<style>
-  .clean-table, .clean-table th, .clean-table td {
-    border: none !important;
-  }
-</style>
+
 ## My stats in github
-<table class="clean-table">
-    <tr>
-      <td align="center" style="padding=0;width=100%;">
-        <img align="center" style="padding=0;" src="https://readme-stats-github.pages.dev/api?username=aqur1n&theme=dark" />
-      </td>
-      <td align="center" style="padding=0;width=100%;">
-        <img align="center" style="padding=0;" src="https://readme-stats-github.pages.dev/api/top-langs?username=aqur1n&theme=dark" />
-      </td>
-    </tr>
-</table>
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api?username=aqur1n&theme=dark" width="48%" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=aqur1n&theme=dark" width="48%" />
+</p>
 
 ## My Projects 
-<table class="clean-table">
-    <tr>
-        <td align="center" style="padding=0;width=100%;">
-            <a href="https://top.gg/bot/969234839188422676">
-                <img align="center" style="padding=0;" src="https://aqur1n.ru/api/v1/rimuru/widget.svg?upd=1)" />
-            </a>
-        </td>
-        <td align="center" style="padding=0;width=100%;">
-            <a href="https://aqur1n.itch.io/nodes">
-                <img align="center" style="padding=0;" src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" />
-            </a>
-        </td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://top.gg/bot/969234839188422676">
+    <img src="https://aqur1n.ru/api/v1/rimuru/widget.svg?upd=1" width="48%" />
+  </a>
+  <a href="https://aqur1n.itch.io/nodes">
+    <img src="https://github.com/aqur1n/aqur1n/blob/main/NodeS.png?raw=true" width="48%" />
+  </a>
+</p>
